@@ -1,4 +1,4 @@
 #!bin/bash
 echo "Hello And Welcome"
-echo Name=
-echo Email=
+echo Name= Amrut Singh
+echo Email= amrutsingh11@gmail.com
