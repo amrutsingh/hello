@@ -1,0 +1,4 @@
+ #!bin/bash
+echo "Hello And Welcome"
+echo Name= Amrut Singh
+echo Email= amrutsingh11@gmail.com
